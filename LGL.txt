@@ -59,3 +59,12 @@ CCTV風雲劇場,https://epg.pw/stream/842cb88aa258c753f2e6a1f5dc109cbc36e852705
 CCTV風雲音樂,https://epg.pw/stream/51ee72b743342939c8dea8db9f5c7ec4dd3cac1bb0cde70fdda1d89b9f9e8c7a.ctv
 CCTV風雲音樂,https://epg.pw/stream/2c50868cac3030c46e3ccc3e9af93da9db83d53a92739d22d2ace4dac18d36ae.ctv
 CCTV高爾夫網球,https://epg.pw/stream/c132e1d0c6fdee7356c17b106dba31a4e6e2082e32472a974b620d18a1951119.ctv
+
+广西,#genre#
+广西综艺,https://epg.pw/stream/a4b4f68ce7c6d859538a85ef14d38f2123e370799943ed95fd21f7c6d2e37463.m3u8
+广西影视,https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
+廣西衛視[ipv6],https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
+廣西衛視,https://epg.pw/stream/eeb0f67095bd72341e7d6894c1c605b986628afee8f69174845095fc7bff093e.m3u8
+廣西衛視,https://epg.pw/stream/fd42bf7648f41c0bc4f2824aa17b174b4588405985baa28a887022e04791489e.ctv
+廣西衛視[ipv6],https://epg.pw/stream/ea0d1b1fd3dead4ce62ebea5bb153d4db39617a5e0e37af009e5207049b17cfd.m3u8
+廣西衛視[ipv6],https://epg.pw/stream/569c9980bf816bc26f083acda39c0b075709efbde9447f682c282e56af28e91b.m3u8
