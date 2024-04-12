@@ -7,3 +7,4 @@
 54,http://110.72.35.236:8088/tsfile/live/1044_1.m3u8
 372,http://116.11.158.91:8181/tsfile/live/1008_1.m3u8
 764,http://180.142.179.26:8138/udp/239.81.0.10:4056
+00广西科教,https://fundingchoicesmessages.google.com/f/AGSKWxVylhkoIkQssHd9P7PIFiRobKtGlkY9ZUnLo0c4h_yNu2-z0KSTaasnnbOS_wDksqdrloFrTQ3KF1rgMfZoVcSvMxjMKMGDxaFKrpV0Sdfe_221U2WimBf9Oo7ck0JUzBba_GzsVvwXv5ToNQOVItECEtlI23Vjc3ayDZvIrQfVURBgErfvPMHI6WkA/_/adv/rdb./eshopoffer./juicyads_/ad/load_/PageTopAD.
