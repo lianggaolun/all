@@ -1,5 +1,3 @@
-sggs，https://hls.nntv.cn/nnlive/LYL1_24.m3u8
-
 广西新闻 高清, http://219.159.194.195:8181/tsfile/live/1012_1.m3u8
 广西乐思购,http://171.106.50.44:5432/udp/239.81.0.9:4056
 广西国际,http://171.108.239.31:8181/tsfile/live/1018_1.m3u8
@@ -8,3 +6,4 @@ sggs，https://hls.nntv.cn/nnlive/LYL1_24.m3u8
 南宁影视 高清, http://219.159.194.195:8181/tsfile/live/1013_1.m3u8    
 南宁公共 高清, http://219.159.194.195:8181/tsfile/live/1014_1.m3u8  
 南宁新闻综合 高清, http://219.159.194.195:8181/tsfile/live/0143_1.m3u8  
+老友LIVE直播，https://hls.nntv.cn/nnlive/LYL1_24.m3u8
