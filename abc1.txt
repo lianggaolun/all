@@ -134,5 +134,5 @@ CCTV17, http://219.159.194.195:8181/tsfile/live/0019_1.m3u8
 兵团卫视, http://219.159.194.195:8181/tsfile/live/0115_1.m3u8
 青海卫视, http://219.159.194.195:8181/tsfile/live/0140_1.m3u8
 新,#genre#
-
-广西科教,http://171.106.50.44:5432/udp/239.81.0.11:4056
+车市,https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv11_1_720P/playlist.m3u8?wsApp=HLS
+车bh市,https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv9_1/index.m3u8?b=200-2100
