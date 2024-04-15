@@ -128,12 +128,11 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 广西乐思购,http://171.106.50.44:5432/udp/239.81.0.9:4056
 广西国际,http://171.108.239.31:8181/tsfile/live/1018_1.m3u8
 广西移动,http://171.106.50.44:5432/udp/239.81.0.10:4056
-广西公共,http://117.141.149.101:4431/tsfile/live/faacts/1008_1.m3u8
-广西科教,http://117.141.149.101:4431/tsfile/live/faacts/1009_1.m3u8
 南宁都市生活,http://171.106.50.44:5432/udp/239.81.0.127:4056
 南宁影视娱乐,http://117.141.149.101:4431/tsfile/live/faacts/1002_1.m3u8
 南宁公共频道,http://117.141.149.101:4431/tsfile/live/faacts/1003_1.m3u8
 南宁新闻综合,http://117.141.149.101:4431/tsfile/live/faacts/1000_1.m3u8
+南宁直播,https://hls.nntv.cn/nnlive/LYL1_24.m3u8
 
 宾阳卫视,https://live.gxrb.com.cn/gx/binyang/index.m3u8
 
