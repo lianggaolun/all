@@ -121,24 +121,21 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 广西南宁,#genre#
 
 广西卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000045BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QPdo%2FUL80msfbhDYvoWpNl3Ui3SDbjEyrngRN3z0PFPHWA%2BXaedl3%2F3flCrB%2Fqh7fg
-#EXTINF:-1,广西影视 高清
-http://180.136.237.243:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,广西综艺 高清
-http://180.136.237.243:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,广西都市 高清
-http://180.136.237.243:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,广西新闻 高清
-http://180.136.237.243:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://117.141.149.101:4431/tsfile/live/faacts/1006_1.m3u8
+广西综艺,http://117.141.149.101:4431/tsfile/live/faacts/1004_1.m3u8
+广西都市,http://117.141.149.101:4431/tsfile/live/faacts/1005_1.m3u8
+广西新闻,http://117.141.149.101:4431/tsfile/live/faacts/1007_1.m3u8
 广西乐思购,http://171.106.50.44:5432/udp/239.81.0.9:4056
 广西国际,http://171.108.239.31:8181/tsfile/live/1018_1.m3u8
 广西移动,http://171.106.50.44:5432/udp/239.81.0.10:4056
+广西公共,http://117.141.149.101:4431/tsfile/live/faacts/1008_1.m3u8
+广西科教,http://117.141.149.101:4431/tsfile/live/faacts/1009_1.m3u8
 南宁都市生活,http://171.106.50.44:5432/udp/239.81.0.127:4056
-#EXTINF:-1,南宁影视 高清
-http://180.136.237.243:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,南宁公共 高清
-http://180.136.237.243:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-南宁新闻综合 高清, http://219.159.194.195:8181/tsfile/live/0143_1.m3u8  
+南宁影视娱乐,http://117.141.149.101:4431/tsfile/live/faacts/1002_1.m3u8
+南宁公共频道,http://117.141.149.101:4431/tsfile/live/faacts/1003_1.m3u8
+南宁新闻综合,http://117.141.149.101:4431/tsfile/live/faacts/1000_1.m3u8
 
+宾阳卫视,https://live.gxrb.com.cn/gx/binyang/index.m3u8
 
 港澳台电视,#genre#
 
